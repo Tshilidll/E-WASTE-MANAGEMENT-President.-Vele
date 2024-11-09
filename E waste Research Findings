@@ -1,0 +1,174 @@
+<DOCTYPE html>
+<html>
+<head>
+   
+    <title>Environmental Health and E-Waste Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #4CAF50;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background-color: #333;
+        }
+        nav a {
+            color: #fff;
+            padding: 15px;
+            text-decoration: none;
+            text-transform: uppercase;
+            font-weight: bold;
+        }
+        nav a:hover {
+            background-color: #4CAF50;
+        }
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .gallery {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-top: 20px;
+        }
+        .gallery img {
+            width: 100%;
+            border-radius: 5px;
+        }
+        .gallery-item {
+            text-align: center;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <b><h1>Environmental Health & E-Waste Management</h1></b>
+    <p>Understanding the impact of electronic waste and promoting healthier environments</p>
+</header>
+
+<nav>
+    <a href="#about">About</a>
+     <a href="#research">Research</a>
+    <a href="#findings" >Findings</a>
+    
+    
+</nav>
+
+<div class="container" id="about">
+    
+    
+    
+    <h2 align="center">WHY IS E-WASTE A GROWING CONCERN?</h2>
+    <p>
+
+
+    The unethical actions in which individuals partake often influences their surroundings , same goes for industrial bodies. As industries grow , more and more resources are required , and certain outputs are being delivered , such as products and goods .
+    The certain equipment and tools used to produce the products do need maintenance , hence most businesses dispose these tools in order to purchase new equipment.
+    Same goes for individuals as they may be influenced by a certain standard of living within a society , this is at a disadvantage as they could be persuaded onto buying new electronic equipment , which would potentially lead them to disposing their old ones.
+    </p>
+</div>
+
+<div class="container" id="research">
+    <h2 align="center">
+    Research Overview</h2>
+    <p>Explore the latest findings in environmental health and e-waste management, covering topics such as pollution, waste disposal practices, recycling solutions, and their effects on human health and ecosystems.</p>
+</div>
+
+<div class="container" id="gallery">
+    <h2 align="center">Research Findings</h2>
+    
+    
+   <p>Browse through the images that highlight key issues and insights related to e-waste management and environmental health.</p>
+    <div class="gallery">
+        
+        
+         
+         
+     <div class="gallery-item" >
+            
+            
+           
+           <div class="container" id="findings">
+           <h2>Spreadsheet Finding</h2>
+         
+          
+         <div class="screenshot">
+          <img src="file:///storage/emulated/0/Android/data/com.microsoft.emmx/files/Download/MicrosoftEdgeDropFiles/Default/Screenshot_20241109_113013.jpg" alt="Screenshot of research data on e-waste management" style="max-width:100%; border-radius:5px;">
+           <p class="caption">Figure: Screenshot showcasing e-waste data and recycling statistics.</p> <p>The graph analysis provides information based  of the participant’s opinions on whether electronic devices can be recycled and again , these participants do seem educated , hence ,over 10 participants agreed to the question. In overall conclusion , it seems as if the majority of individuals that participated do contain a positive educational background. 
+           Although 4 individuals were uncertain on the whether electronic devices can be recycled, they too seem to withhold well-balanced intellectuals.
+           </p>
+           </div>
+           </div>
+           
+            
+            
+          
+            
+       
+      </div>
+     
+    
+    <div class="container">
+    <img src="file:///storage/emulated/0/Android/data/com.microsoft.emmx/files/Download/MicrosoftEdgeDropFiles/Default/Screenshot_20241109_120248.jpg" alt="Health impacts of e-waste">
+    <p>The data above depicts the amount  of opinions received from the participants. Only a lump sum amount of about 14% of the participants chose the “Yes” option , agreeing to the disapproval of “just” disposing electronic waste anywhere. This shows that the majority of the participants are indeed well-educated , thus possess the knowledge require in electronic waste disposals and pollution.</p>
+    </div>
+     
+    
+    <div class="gallery-item">
+   <h3 style=""font-size;50px">DataBase</h3>
+    <img src="file:///storage/emulated/0/Android/data/com.microsoft.emmx/files/Download/MicrosoftEdgeDropFiles/Default/Screenshot_20241109_120737.jpg" alt="Recycling process">
+    <b><p >Information</p></b>
+    <p> The above findings are based on a Database sheet screenshot that indicate or shows that a query has been created to further more take further actions towards analysing the information provided. 
+    It allows us to specifically do tasks or perform logic with the information provided. The database query may contain similar actions that are more closely related with a few of the CRUD function
+    </p>
+    </div>
+   
+  
+  <div class="container" class="screenshot">
+  <img src="file:///storage/emulated/0/Android/data/com.microsoft.emmx/files/Download/MicrosoftEdgeDropFiles/Default/Screenshot_20241109_120737.jpg" alt="Screenshot of research data on e-waste management" style="max-width:100%; border-radius:5px;">
+  <p class="caption">The database can be disclosed optional answers based on your descriptive option. For example: if you wish to know the total amount of weight given or the specific amount on average , it is possible through the database sheets. 
+  With the database table , we also have the ability to analyse the entire data set with ease , thus illustrate on the prosperities that may be within the data. 
+  
+  </p>
+  </div>
+  </div>
+  
+    
+
+   
+                                              
+           </div>
+</div>
+
+
+
+<footer id="contact">
+  <button>  <p>Contact us at <a href="Reallyrampg@mail.com">E-waste.info</a> for more information</p> </button>
+    <p>Environmental Health & E-Waste Management. 2024</p>
+</footer>
+
+</body>
+</html>
